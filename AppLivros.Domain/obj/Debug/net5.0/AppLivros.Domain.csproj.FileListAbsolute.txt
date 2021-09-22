@@ -1,0 +1,11 @@
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\bin\Debug\net5.0\AppLivros.Domain.deps.json
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\bin\Debug\net5.0\AppLivros.Domain.dll
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\bin\Debug\net5.0\ref\AppLivros.Domain.dll
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\bin\Debug\net5.0\AppLivros.Domain.pdb
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\obj\Debug\net5.0\AppLivros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\obj\Debug\net5.0\AppLivros.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\obj\Debug\net5.0\AppLivros.Domain.AssemblyInfo.cs
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\obj\Debug\net5.0\AppLivros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\obj\Debug\net5.0\AppLivros.Domain.dll
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\obj\Debug\net5.0\ref\AppLivros.Domain.dll
+C:\Users\Rafae\source\repos\AppLivros\AppLivros.Domain\obj\Debug\net5.0\AppLivros.Domain.pdb
